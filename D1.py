@@ -1,5 +1,4 @@
-#Nom: Samuel Prevost 
-#Numero d'etudiant: 300355439
+
 
 #Q1: Temps du voyage
 def tempsVoyage(distance, vitesse):
